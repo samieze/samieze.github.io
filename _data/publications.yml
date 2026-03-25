@@ -9,3 +9,13 @@ main:
     bibtex: 
     image: 
     notes: 
+
+  - title: DecoPa: Query Decomposition for Parallel Complex Event Processing
+    authors: Samira Akili, Steven Purtzel, Matthias Weidlich
+    conference_short: SIGMOD
+    conference: International Conference on Management of Data <strong>(SIGMOD)</strong>, 2024.
+    pdf: 
+    code: 
+    bibtex: 
+    image: 
+    notes: 
