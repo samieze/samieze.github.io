@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a postdoctoral researcher in the area of databases and information systems at the Technical University of Berlin, where I works with Prof. Volker Markl. I received her Ph.D. in Computer Science, awarded summa cum laude, from Humboldt-Universität zu Berlin under the supervision of Prof. Matthias Weidlich.
+I am currently a postdoctoral researcher in the area of databases and information systems at the Technical University of Berlin, where I works with Prof. Volker Markl. I received my Ph.D. in Computer Science, awarded summa cum laude, from Humboldt-Universität zu Berlin under the supervision of Prof. Matthias Weidlich.
 My research focuses on complex event processing, distributed query optimization, and stream data processing systems. In my dissertation, I investigated techniques for the distributed evaluation of CEP queries.
 My work has been published at leading conferences and journals, including SIGMOD, VLDB, EDBT, and Information Systems.
 
