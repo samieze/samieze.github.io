@@ -13,7 +13,7 @@ My work has been published at leading conferences and journals, including SIGMOD
 - **Complex Event Processing**
 - **Stream Processing Systems**
 - **Optimization Techniques for Distributed Query Processing**
-- 
+  
 ## News
 
 - **[Jan. 2026]** Our paper "Nova: Scalable Streaming Join Placement and Parallelization in Resource-Constrained Geo-Distributed Environments"  is accepted to EDBT 2026.
