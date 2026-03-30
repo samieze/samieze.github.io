@@ -4,10 +4,24 @@ main:
     authors: Samira Akili, Steven Purtzel, Matthias Weidlich
     conference_short: SIGMOD
     conference: International Conference on Management of Data <strong>(SIGMOD)</strong>, 2024.
-  
 
-  - title: DecoPa Query Decomposition for Parallel Complex Event Processing
+  - title: On-Demand Pattern Aggregation in Event Networks
+    authors: Steven Purtzel, Samira Akili, Matthias Weidlich
+    conference_short: BiDEDE@SIGMOD
+    conference:  International Workshop on Big Data in Emergent Distributed Environments <strong>(BiDEDE)</strong>, 2024.
+    
+  - title: Inev  In-network evaluation for event stream processing
     authors: Samira Akili, Steven Purtzel, Matthias Weidlich
     conference_short: SIGMOD
-    conference: International Conference on Management of Data <strong>(SIGMOD)</strong>, 2024.
+    conference: International Conference on Management of Data <strong>(SIGMOD)</strong>, 2023.
+  
+  - title: Predicate-based push-pull communication for distributed CEP
+    authors: Steven Purtzel, Samira Akili, Matthias Weidlich
+    conference_short: DEBS
+    conference: International Conference on Distributed and Event-based Systems <strong>(DEBS)</strong>, 2022.
+
+  - title: MuSE graphs for flexible distribution of event stream processing in networks
+    authors: Samira Akili, Matthias Weidlich
+    conference_short: SIGMOD
+    conference: International Conference on Management of Data <strong>(SIGMOD)</strong>, 2021.
 
